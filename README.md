@@ -2,8 +2,8 @@
 
 This code was written by following a tutorial from the [Computer Science](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA) YouTube channel.
 There are some variants in how a few tasks are accomplished because that is how I already knew to reach the goal that block of code is tasked to do.
-This project was made to further my education on Python and Data Science as well as to give me a tool quickly do some research on a company that I am
-applying to for a job, or who has reached out to me for my resume.
+This project was made to further my education on Python and Data Science as well as to give me a tool to quickly research a company's Twitter profile
+if I am scheduled to interview with them.
 
 ### Requirements
 * Python3
