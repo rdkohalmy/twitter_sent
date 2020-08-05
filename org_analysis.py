@@ -54,7 +54,7 @@ df['Tweets']= df['Tweets'].apply(cleanTxt)
 df
 
 # Here we will look at the Subjectivity and Polarity or each tweet that we collected.
- def getSubjectivity(text):
+def getSubjectivity(text):
      return TextBlob(text).sentiment.subjectivity
 
 def getPolarity(text):
